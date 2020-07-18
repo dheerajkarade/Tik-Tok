@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "640798676674",
+    "firebase_url": "https://social-cfdc2.firebaseio.com",
+    "project_id": "social-cfdc2",
+    "storage_bucket": "social-cfdc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640798676674:android:e328d2dc692fc37f8b8d5b",
+        "android_client_info": {
+          "package_name": "com.ticktocktick.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640798676674-unlrbmq2it4sjan0q7ivk6vnhnivch45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTMCSN3Y5SH8B56VlYu5FJOde84ghsy4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640798676674-unlrbmq2it4sjan0q7ivk6vnhnivch45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
